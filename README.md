@@ -9,7 +9,7 @@
            
            *BUILD INSTRUCTION*           
           
-    . build/envsetup.sh && lunch omni_DDV_sprout-eng && make -j$(nproc --all) bootimage
+    . build/envsetup.sh && lunch omni_daisy-eng && make -j$(nproc --all) bootimage
         
  ==========================================
  ## Device specifications
