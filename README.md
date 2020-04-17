@@ -6,7 +6,8 @@
   It was announced and released in July 2018.
  
  ==========================================
-            *BUILD INSTRUCTION*           
+           
+           *BUILD INSTRUCTION*           
             
  . build/envsetup.sh && lunch omni_DDV_sprout-eng && make -j$(nproc --all) bootimage
         
